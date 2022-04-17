@@ -14,6 +14,11 @@
 - [Add support for default branches not named main by using ${{github.ref_name}}](https://github.com/TomasHubelbauer/github-issues-git-notes-demo/issues/2)
 - [Test](https://github.com/TomasHubelbauer/github-issues-git-notes-demo/issues/1)
 
+## todo-comments-github-issues
+
+- [Make source code links permalinks to get them to show up as code preview](https://github.com/TomasHubelbauer/todo-comments-github-issues/issues/4)
+- [Close the issue with a comment containing the commit hash and message](https://github.com/TomasHubelbauer/todo-comments-github-issues/issues/3)
+
 ## todo-comments-github-issues-demo
 
 - [Do something (README.md:14)](https://github.com/TomasHubelbauer/todo-comments-github-issues-demo/issues/10)
