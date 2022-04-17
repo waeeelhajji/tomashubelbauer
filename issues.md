@@ -16,8 +16,7 @@
 
 ## todo-comments-github-issues
 
-- [Make source code links permalinks to get them to show up as code preview](https://github.com/TomasHubelbauer/todo-comments-github-issues/issues/4)
-- [Close the issue with a comment containing the commit hash and message](https://github.com/TomasHubelbauer/todo-comments-github-issues/issues/3)
+- [Consider using labels for the file name and line number](https://github.com/TomasHubelbauer/todo-comments-github-issues/issues/5)
 
 ## todo-comments-github-issues-demo
 

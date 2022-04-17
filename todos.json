@@ -263,7 +263,7 @@
     "todos": []
   },
   "camera-stand": {
-    "stamp": "2022-04-14T19:46:13Z",
+    "stamp": "2022-04-17T09:35:44Z",
     "todos": [
       "Design a spacer that brings the vertical flat up to the camera level",
       "Design a recess in the shape of the camera body + the dummy battery plug"
@@ -1205,10 +1205,6 @@
       "Set up deployments to NPM and GPR with GitHub Actions"
     ]
   },
-  "js-parser": {
-    "stamp": "2022-04-14T20:29:45Z",
-    "todos": []
-  },
   "js-protobuf": {
     "stamp": "2022-04-14T20:29:52Z",
     "todos": [
@@ -2055,11 +2051,11 @@
     ]
   },
   "todo-comments-github-issues": {
-    "stamp": "2022-04-17T09:02:46Z",
+    "stamp": "2022-04-17T09:33:21Z",
     "todos": []
   },
   "todo-comments-github-issues-demo": {
-    "stamp": "2022-04-16T19:22:19Z",
+    "stamp": "2022-04-17T09:31:25Z",
     "todos": [
       "Do something"
     ]
