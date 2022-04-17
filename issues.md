@@ -14,6 +14,10 @@
 - [Add support for default branches not named main by using ${{github.ref_name}}](https://github.com/TomasHubelbauer/github-issues-git-notes-demo/issues/2)
 - [Test](https://github.com/TomasHubelbauer/github-issues-git-notes-demo/issues/1)
 
+## todo-comments-github-issues
+
+- [Consider updating even existing issues to have new bodies](https://github.com/TomasHubelbauer/todo-comments-github-issues/issues/6)
+
 ## todo-comments-github-issues-demo
 
 - [Do something (:14)](https://github.com/TomasHubelbauer/todo-comments-github-issues-demo/issues/23)
