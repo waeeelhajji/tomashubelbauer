@@ -2342,10 +2342,6 @@
     "stamp": "2022-04-14T21:32:19Z",
     "todos": []
   },
-  "webgpu": {
-    "stamp": "2022-04-14T21:33:25Z",
-    "todos": []
-  },
   "webpack-sourcemap": {
     "stamp": "2022-04-14T21:33:33Z",
     "todos": [
@@ -2438,10 +2434,6 @@
     "stamp": "2022-04-14T21:38:53Z",
     "todos": []
   },
-  "workers-cookie": {
-    "stamp": "2022-04-14T21:39:25Z",
-    "todos": []
-  },
   "workers-formdata": {
     "stamp": "2022-04-14T21:39:57Z",
     "todos": [
@@ -2494,9 +2486,5 @@
       "Download subtitles",
       "Point Puppeteer to an instance of the Electron self if possible to stop bundling extra Chrome"
     ]
-  },
-  "zsh-nvm": {
-    "stamp": "2022-04-14T21:42:41Z",
-    "todos": []
   }
 }
