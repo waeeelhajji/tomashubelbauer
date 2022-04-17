@@ -14,14 +14,10 @@
 - [Add support for default branches not named main by using ${{github.ref_name}}](https://github.com/TomasHubelbauer/github-issues-git-notes-demo/issues/2)
 - [Test](https://github.com/TomasHubelbauer/github-issues-git-notes-demo/issues/1)
 
-## todo-comments-github-issues
-
-- [Consider using labels for the file name and line number](https://github.com/TomasHubelbauer/todo-comments-github-issues/issues/5)
-
 ## todo-comments-github-issues-demo
 
-- [Do something (README.md:14)](https://github.com/TomasHubelbauer/todo-comments-github-issues-demo/issues/10)
-- [Do something from the workflow definition (.github/workflows/main.yml:5)](https://github.com/TomasHubelbauer/todo-comments-github-issues-demo/issues/9)
+- [Do something (:14)](https://github.com/TomasHubelbauer/todo-comments-github-issues-demo/issues/23)
+- [Do something from the workflow definition (:5)](https://github.com/TomasHubelbauer/todo-comments-github-issues-demo/issues/22)
 
 ## vscode-box-drawing
 
