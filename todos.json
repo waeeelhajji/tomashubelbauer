@@ -1435,13 +1435,6 @@
       "Find out how to end the current debugging session and attach a new session"
     ]
   },
-  "node-esm-url": {
-    "stamp": "2021-04-03T16:40:18Z",
-    "todos": [
-      "Add support for fetching dependencies of the downloaded modules",
-      "Take inspiration from the example loader in Node documentation"
-    ]
-  },
   "node-forever": {
     "stamp": "2022-04-14T20:37:07Z",
     "todos": [
