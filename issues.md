@@ -18,6 +18,10 @@
 
 - [See if Node 18 introducing a new FormData global could be of any use](https://github.com/TomasHubelbauer/mime-multipart/issues/1)
 
+## todo-comments-github-issues
+
+- [Cap the maximum line number to the number of lines in the file to unbreak the previews](https://github.com/TomasHubelbauer/todo-comments-github-issues/issues/7)
+
 ## todo-comments-github-issues-demo
 
 - [Do something (:14)](https://github.com/TomasHubelbauer/todo-comments-github-issues-demo/issues/23)
