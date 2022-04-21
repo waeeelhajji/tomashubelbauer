@@ -1070,13 +1070,13 @@
     ]
   },
   "hubelbauer.net": {
-    "stamp": "2022-04-14T22:09:27Z",
+    "stamp": "2022-04-21T06:48:35Z",
     "todos": [
       "Collect workflow runs data using GitHub API and display uptime charts",
       "Dump extra information in a case of a workflow failure",
       "Add pipelines that check DNS records of the redirect domains",
       "Reuse the DNS and redirect checking pipelines for my other domains elsewhere",
-      "Add https://github.com/TomasHubelbauer/tomashubelbauer.today",
+      "Add tomashubelbauer.today",
       "Add tom.menu and create a GitHub Pages with optional HTTPS as a link tree",
       "Add a workflow to check the landing page returns a 200"
     ]
@@ -2051,12 +2051,6 @@
     "stamp": "2022-04-17T17:47:31Z",
     "todos": [
       "Do something"
-    ]
-  },
-  "tomashubelbauer.today": {
-    "stamp": "2021-06-27T15:21:38Z",
-    "todos": [
-      "Wait for \"Enforce HTTPS\" to start working or re-create `CNAME` to make it"
     ]
   },
   "track-maker": {
