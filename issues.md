@@ -20,11 +20,11 @@
 
 ## todo-comments-github-issues
 
-- [Cap the maximum line number to the number of lines in the file to unbreak the previews](https://github.com/TomasHubelbauer/todo-comments-github-issues/issues/7)
+- [Show up to N non-empty lines above and below in the TODO comment preview](https://github.com/TomasHubelbauer/todo-comments-github-issues/issues/8)
 
 ## todo-comments-github-issues-demo
 
-- [Do something (:14)](https://github.com/TomasHubelbauer/todo-comments-github-issues-demo/issues/23)
+- [Do something (:19)](https://github.com/TomasHubelbauer/todo-comments-github-issues-demo/issues/23)
 - [Do something from the workflow definition (:5)](https://github.com/TomasHubelbauer/todo-comments-github-issues-demo/issues/22)
 
 ## vscode-box-drawing
