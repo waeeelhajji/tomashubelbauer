@@ -18,10 +18,6 @@
 
 - [See if Node 18 introducing a new FormData global could be of any use](https://github.com/TomasHubelbauer/mime-multipart/issues/1)
 
-## todo-comments-github-issues
-
-- [Show up to N non-empty lines above and below in the TODO comment preview](https://github.com/TomasHubelbauer/todo-comments-github-issues/issues/8)
-
 ## todo-comments-github-issues-demo
 
 - [Do something (:19)](https://github.com/TomasHubelbauer/todo-comments-github-issues-demo/issues/23)
