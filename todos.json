@@ -82,7 +82,7 @@
     ]
   },
   "akai-apc-mini": {
-    "stamp": "2022-04-14T18:05:35Z",
+    "stamp": "2022-04-28T08:42:01Z",
     "todos": [
       "Build a driver to make the launchpad show graphics on the buttons",
       "Trace OP-1 USB calls to see if they rememble these ones, if so, it is generic MIDI comms",
@@ -101,22 +101,22 @@
     ]
   },
   "appium": {
-    "stamp": "2022-04-14T19:23:58Z",
+    "stamp": "2022-04-28T08:42:29Z",
     "todos": [
       "Remove this information once Appium Desktop includes a version of Appium",
       "Update the Appium Inspector screenshot to use `/wd/hub` and then again to"
     ]
   },
   "arduino-mouse-jiggler": {
-    "stamp": "2022-04-14T19:24:44Z",
+    "stamp": "2022-04-28T08:42:42Z",
     "todos": []
   },
   "arduino-nmea": {
-    "stamp": "2022-04-14T19:32:11Z",
+    "stamp": "2022-04-28T08:42:54Z",
     "todos": []
   },
   "arduino-qr": {
-    "stamp": "2021-07-30T21:24:20Z",
+    "stamp": "2022-04-28T08:43:10Z",
     "todos": [
       "Document my build of the 3×3 display grid",
       "Include the real hardware wiring diagram",
@@ -153,7 +153,7 @@
     ]
   },
   "asp-pdf": {
-    "stamp": "2022-04-14T19:35:32Z",
+    "stamp": "2022-04-28T08:43:20Z",
     "todos": []
   },
   "async-await.net": {
@@ -210,13 +210,13 @@
     ]
   },
   "blender-gargantua": {
-    "stamp": "2022-04-14T22:39:00Z",
+    "stamp": "2022-04-28T08:43:32Z",
     "todos": [
       "Update the workflow to work with the latest Ubuntu if needed"
     ]
   },
   "blender-light-box": {
-    "stamp": "2022-04-15T17:46:39Z",
+    "stamp": "2022-04-28T08:47:04Z",
     "todos": [
       "Discard cards which would put the card chain over the line size",
       "Assing a correct translucent material to the card plan",
@@ -235,7 +235,7 @@
     ]
   },
   "blender-script": {
-    "stamp": "2022-04-14T19:42:43Z",
+    "stamp": "2022-04-28T08:43:55Z",
     "todos": [
       "Figure out how to get autocompletion for `bpy`",
       "Set up a GitHub Actions workflow which installs Blender and runs the script"
@@ -248,11 +248,11 @@
     ]
   },
   "brother-p-touch-d600": {
-    "stamp": "2022-04-14T19:44:35Z",
+    "stamp": "2022-04-28T08:44:05Z",
     "todos": []
   },
   "bt-channel": {
-    "stamp": "2022-04-14T19:45:19Z",
+    "stamp": "2022-04-28T08:44:14Z",
     "todos": [
       "Wait for beacons support in Web Bluetooth",
       "Prototype an iOS application exposing its bundle/group in Files using Web Bluetooth"
@@ -274,15 +274,15 @@
     "todos": []
   },
   "cannon-three": {
-    "stamp": "2022-04-14T19:47:17Z",
+    "stamp": "2022-04-28T08:44:23Z",
     "todos": []
   },
   "canvas-chromatic-aberration": {
-    "stamp": "2022-04-14T19:50:27Z",
+    "stamp": "2022-04-28T08:44:33Z",
     "todos": []
   },
   "cf-workers-deploy": {
-    "stamp": "2022-04-14T19:50:49Z",
+    "stamp": "2022-04-28T08:44:43Z",
     "todos": []
   },
   "chrome": {
@@ -360,7 +360,7 @@
     ]
   },
   "cra-hosts": {
-    "stamp": "2022-04-14T19:56:59Z",
+    "stamp": "2022-04-28T08:45:20Z",
     "todos": [
       "Resolve the HSTS issue",
       "Add CORS `Access-Control-Allow-Origin` value for `local.` so that CORS works"
@@ -404,7 +404,7 @@
     ]
   },
   "csfd-digest": {
-    "stamp": "2022-04-28T00:18:21Z",
+    "stamp": "2022-04-28T08:47:19Z",
     "todos": [
       "Remove local storage items for movies no longer in the data",
       "Scrape all cities, not just Prague and add a switcher and geolocation integration",
@@ -452,7 +452,7 @@
     ]
   },
   "css-message-bubble": {
-    "stamp": "2022-04-14T20:03:25Z",
+    "stamp": "2022-04-28T08:45:37Z",
     "todos": []
   },
   "css-post-grid-design": {
@@ -488,13 +488,13 @@
     ]
   },
   "data-uri": {
-    "stamp": "2022-04-14T20:05:30Z",
+    "stamp": "2022-04-28T08:45:48Z",
     "todos": [
       "Add an option to generate a JavaScript template string literal with breaks"
     ]
   },
   "day": {
-    "stamp": "2022-04-14T20:05:44Z",
+    "stamp": "2022-04-28T08:45:56Z",
     "todos": [
       "Extract the Files snippet to its own repo and drop this app"
     ]
@@ -510,7 +510,7 @@
     "todos": []
   },
   "dotnet-unhandled-exception": {
-    "stamp": "2022-04-14T20:06:55Z",
+    "stamp": "2022-04-28T08:46:05Z",
     "todos": []
   },
   "drawer-box": {
@@ -539,7 +539,7 @@
     "todos": []
   },
   "ef-cosmos-embedded-inheritance": {
-    "stamp": "2022-04-14T20:08:30Z",
+    "stamp": "2022-04-28T08:46:14Z",
     "todos": [
       "Demonstrate `OwnsOne` and `OwnsMany` with a non-inheriting entity",
       "Embed `Admin` into something else to prolong the embedance chain to see if that causes an error",
@@ -732,7 +732,7 @@
     ]
   },
   "fatcow-icons": {
-    "stamp": "2022-04-14T20:16:36Z",
+    "stamp": "2022-04-28T08:46:23Z",
     "todos": [
       "Consider allowing to associate custom aliases with the icons which",
       "Consider aliasing icons with common synonyms",
@@ -749,7 +749,7 @@
     ]
   },
   "fetch-download-progress": {
-    "stamp": "2022-04-14T20:16:42Z",
+    "stamp": "2022-04-28T08:46:35Z",
     "todos": []
   },
   "fetch-range-request": {
@@ -796,7 +796,7 @@
     ]
   },
   "fragment": {
-    "stamp": "2022-04-14T20:19:26Z",
+    "stamp": "2022-04-28T08:46:45Z",
     "todos": [
       "Set up an `.npmignore` for `publish` to use",
       "Create releases using GitHub Actions replacing Azure Pipelines",
@@ -815,13 +815,13 @@
     ]
   },
   "fuck-you-stale-bot": {
-    "stamp": "2022-04-14T20:19:31Z",
+    "stamp": "2022-04-28T08:46:53Z",
     "todos": [
       "Set up CI which updates the readme with Stale bot's damaging actions"
     ]
   },
   "garmin-img": {
-    "stamp": "2022-04-14T20:19:36Z",
+    "stamp": "2022-04-28T08:47:01Z",
     "todos": []
   },
   "git": {
@@ -896,14 +896,14 @@
     ]
   },
   "github-actions-wsl": {
-    "stamp": "2022-04-15T20:37:15Z",
+    "stamp": "2022-04-28T08:47:10Z",
     "todos": [
       "Study actions/setup-wsl to see how it could be useful to me",
       "Fix the issue with the kernel and figure out why \"no installed distros\""
     ]
   },
   "github-api": {
-    "stamp": "2022-04-15T20:39:26Z",
+    "stamp": "2022-04-28T08:47:18Z",
     "todos": []
   },
   "github-comments": {
@@ -927,7 +927,7 @@
     "todos": []
   },
   "github-pages-custom-domain": {
-    "stamp": "2022-04-14T20:22:42Z",
+    "stamp": "2022-04-28T08:47:25Z",
     "todos": [
       "See if both WWW and APEX domain setup is possible"
     ]
@@ -952,7 +952,7 @@
     ]
   },
   "github-pages-status": {
-    "stamp": "2022-04-14T20:23:02Z",
+    "stamp": "2022-04-28T08:47:33Z",
     "todos": [
       "Collect the Pages using `github-api`",
       "Digest the list in the readme",
@@ -1032,7 +1032,7 @@
     "todos": []
   },
   "html-live-text": {
-    "stamp": "2022-04-14T20:24:22Z",
+    "stamp": "2022-04-28T08:47:43Z",
     "todos": [
       "Fix the broken animation on the time element"
     ]
@@ -1103,13 +1103,13 @@
     ]
   },
   "insta360": {
-    "stamp": "2022-04-14T20:27:46Z",
+    "stamp": "2022-04-28T08:47:56Z",
     "todos": [
       "Capture the Wi-Fi log"
     ]
   },
   "instagram": {
-    "stamp": "2022-04-14T20:27:52Z",
+    "stamp": "2022-04-28T08:48:05Z",
     "todos": [
       "Create a direcctory instead of a single JSON",
       "Download the posts to back them up"
@@ -1120,7 +1120,7 @@
     "todos": []
   },
   "ios-app-web-control": {
-    "stamp": "2022-04-14T20:28:03Z",
+    "stamp": "2022-04-28T08:48:13Z",
     "todos": [
       "Implement the QR channel",
       "Introduce and audio log view"
@@ -1140,7 +1140,7 @@
     ]
   },
   "isds-backup": {
-    "stamp": "2022-04-14T20:28:27Z",
+    "stamp": "2022-04-28T08:48:20Z",
     "todos": [
       "Replace the attachment download timeout with a check for no `.crdownload`",
       "Alert on new messages by pointing them out in the console",
@@ -1164,7 +1164,7 @@
     "todos": []
   },
   "js-headset-button": {
-    "stamp": "2022-04-14T20:29:10Z",
+    "stamp": "2022-04-28T08:48:32Z",
     "todos": [
       "Log into the Google account on the Android phone and update Chrome",
       "Try this out and document results"
@@ -1215,7 +1215,7 @@
     ]
   },
   "js-qr-scanner-library-comparison": {
-    "stamp": "2022-04-14T20:29:57Z",
+    "stamp": "2022-04-28T08:48:42Z",
     "todos": [
       "Hook up Instascan in some way which allows scanning `video` element"
     ]
@@ -1229,7 +1229,7 @@
     "todos": []
   },
   "jsx-tsx-cheatsheet": {
-    "stamp": "2022-04-14T20:30:12Z",
+    "stamp": "2022-04-28T08:49:19Z",
     "todos": [
       "Work through more sources and update the cheat sheet accordingly",
       "Rewrite for brevity and remove unnecessary fluff, rely on examples over text"
@@ -1246,7 +1246,7 @@
     "todos": []
   },
   "keytar-vscode-extension": {
-    "stamp": "2022-04-14T20:30:21Z",
+    "stamp": "2022-04-28T08:49:26Z",
     "todos": [
       "Finalize patching the generated extension's `package.json`"
     ]
@@ -1256,11 +1256,11 @@
     "todos": []
   },
   "lsp-plugin": {
-    "stamp": "2022-04-14T20:30:43Z",
+    "stamp": "2022-04-28T08:49:33Z",
     "todos": []
   },
   "macos-date-time": {
-    "stamp": "2022-04-14T20:30:50Z",
+    "stamp": "2022-04-28T08:49:40Z",
     "todos": []
   },
   "mapsforge": {
@@ -1278,7 +1278,7 @@
     ]
   },
   "markdown-webp": {
-    "stamp": "2022-04-14T20:32:45Z",
+    "stamp": "2022-04-28T08:49:46Z",
     "todos": [
       "Compare APNG and WebP size and ease of generation to focus recommendation",
       "Test out whether VS Code preview can handle video too now",
@@ -1322,7 +1322,7 @@
     "todos": []
   },
   "markright-vscode": {
-    "stamp": "2022-04-14T20:33:00Z",
+    "stamp": "2022-04-28T08:49:53Z",
     "todos": [
       "Use `npm list --global yo` to check Yeoman installation and version",
       "Use `npm list generator-code` to check `generator-code` local installation",
@@ -1336,7 +1336,7 @@
     "todos": []
   },
   "mime-multipart": {
-    "stamp": "2022-04-21T13:39:30Z",
+    "stamp": "2022-04-28T08:50:00Z",
     "todos": []
   },
   "modern-office-git-diff": {
@@ -1383,7 +1383,7 @@
     ]
   },
   "next-url-import-react-component": {
-    "stamp": "2021-12-28T23:10:30Z",
+    "stamp": "2022-04-28T08:50:06Z",
     "todos": [
       "Document the other development mode downsides found later while testing",
       "Look into live reload of URL imports using Nodemon hacks",
@@ -1404,13 +1404,13 @@
     "todos": []
   },
   "nim-media-manager": {
-    "stamp": "2022-04-14T20:35:07Z",
+    "stamp": "2022-04-28T08:50:12Z",
     "todos": [
       "Continue with the menu loop"
     ]
   },
   "node-apng": {
-    "stamp": "2022-04-14T20:35:12Z",
+    "stamp": "2022-04-28T08:50:18Z",
     "todos": [
       "Add a GitHub Action for tests",
       "Refactor as per the code comment",
@@ -1436,7 +1436,7 @@
     ]
   },
   "node-forever": {
-    "stamp": "2022-04-14T20:37:07Z",
+    "stamp": "2022-04-28T08:50:25Z",
     "todos": [
       "Improve detection of the prior process not yet having released the port",
       "Explore whether `truncate` has any benefit over `writeFile` with no content"
@@ -1463,14 +1463,14 @@
     "todos": []
   },
   "node-phoenix": {
-    "stamp": "2022-04-14T20:37:39Z",
+    "stamp": "2022-04-28T08:50:36Z",
     "todos": [
       "Monitor child process crash and restart child process upon one",
       "Start off with a child process from the get-go"
     ]
   },
   "node-puppeteer-apng": {
-    "stamp": "2022-04-14T20:37:45Z",
+    "stamp": "2022-04-28T08:50:42Z",
     "todos": [
       "Set up GitHub Actions for the test",
       "Rename cuts to timestampts everywhere",
@@ -1483,7 +1483,7 @@
     ]
   },
   "node-stdio": {
-    "stamp": "2022-04-14T20:55:04Z",
+    "stamp": "2022-04-28T08:50:48Z",
     "todos": []
   },
   "node-vm": {
@@ -1501,7 +1501,7 @@
     ]
   },
   "node-wsb": {
-    "stamp": "2022-04-14T20:58:51Z",
+    "stamp": "2022-04-28T08:50:55Z",
     "todos": [
       "Address code to-do comments",
       "Finalize the `wait` argument logic - wait or bail based on its value",
@@ -1532,25 +1532,25 @@
     "todos": []
   },
   "onewheel": {
-    "stamp": "2022-04-14T21:01:02Z",
+    "stamp": "2022-04-28T08:51:02Z",
     "todos": []
   },
   "onewheel-charger": {
-    "stamp": "2022-04-14T21:03:32Z",
+    "stamp": "2022-04-28T08:51:08Z",
     "todos": []
   },
   "onewheel-web-bluetooth": {
-    "stamp": "2022-04-14T21:03:49Z",
+    "stamp": "2022-04-28T08:51:15Z",
     "todos": [
       "Try connecting to Pint"
     ]
   },
   "op1-svg": {
-    "stamp": "2022-04-14T21:04:28Z",
+    "stamp": "2022-04-28T08:51:21Z",
     "todos": []
   },
   "osm-raster-map": {
-    "stamp": "2022-04-14T21:04:39Z",
+    "stamp": "2022-04-28T08:51:28Z",
     "todos": [
       "Make double click to zoom in and out zoom so that the point stays under the cursor not in the center",
       "Seed location and zoom from storage but replace with live values when available",
@@ -1624,7 +1624,7 @@
     "todos": []
   },
   "powershell-scheduled-tasks": {
-    "stamp": "2022-04-14T21:08:36Z",
+    "stamp": "2022-04-28T08:51:35Z",
     "todos": [
       "https://community.spiceworks.com/how_to/17736-run-powershell-scripts-from-task-scheduler",
       "https://devblogs.microsoft.com/scripting/weekend-scripter-use-the-windows-task-scheduler-to-run-a-windows-powershell-script/",
@@ -1653,7 +1653,7 @@
     "todos": []
   },
   "ps-ntlite": {
-    "stamp": "2022-04-14T21:10:18Z",
+    "stamp": "2022-04-28T08:51:41Z",
     "todos": []
   },
   "ps-remote": {
@@ -1664,13 +1664,13 @@
     ]
   },
   "ps-remoting": {
-    "stamp": "2022-04-14T21:10:28Z",
+    "stamp": "2022-04-28T08:51:48Z",
     "todos": [
       "Figure out the problem and capture the solution"
     ]
   },
   "puppeteer-bazos-cz-scraper": {
-    "stamp": "2022-04-14T21:10:36Z",
+    "stamp": "2022-04-28T08:51:55Z",
     "todos": [
       "Open detail for each post and fetch full description from it.",
       "Implement diff to report updates/inserts in a separate file.",
@@ -1707,7 +1707,7 @@
     ]
   },
   "raspi-mouse-jiggler": {
-    "stamp": "2022-04-14T21:11:57Z",
+    "stamp": "2022-04-28T08:52:01Z",
     "todos": [
       "Verify the code now works on macOS out of the box after the issue fix",
       "Build adapters from the microUSB port on the Pi Pico to USB A and USB C"
@@ -1764,11 +1764,11 @@
     ]
   },
   "react-redux-typescript-connect-decorator-demo": {
-    "stamp": "2022-04-14T21:49:24Z",
+    "stamp": "2022-04-28T08:52:08Z",
     "todos": []
   },
   "regex": {
-    "stamp": "2022-04-14T21:15:02Z",
+    "stamp": "2022-04-28T08:52:45Z",
     "todos": [
       "Sync cursor between pattern and code so that it is always on the same char",
       "Implement text area \"background\" highlights - the text language highlighting",
@@ -1844,7 +1844,7 @@
     "todos": []
   },
   "selfie": {
-    "stamp": "2022-04-14T21:17:17Z",
+    "stamp": "2022-04-28T08:52:50Z",
     "todos": [
       "Configure the media stream constraints better once they are well supported",
       "Fix the artifact tool color indicator label displaying bad color when panned"
@@ -1885,7 +1885,7 @@
     "todos": []
   },
   "sqlite-javascript": {
-    "stamp": "2022-04-14T21:18:57Z",
+    "stamp": "2022-04-28T08:52:57Z",
     "todos": [
       "Convert boolean serial type values to numbers in case of numeric column type",
       "Link to the GitHub repository from the demo site",
@@ -1917,7 +1917,7 @@
     ]
   },
   "sreality": {
-    "stamp": "2022-04-14T21:19:02Z",
+    "stamp": "2022-04-28T08:53:03Z",
     "todos": [
       "Implement paging the search results",
       "Run this on schedule in GitHub Actions for interesting searches",
@@ -1925,7 +1925,7 @@
     ]
   },
   "sreality-puppeteer-scraper": {
-    "stamp": "2022-04-14T21:19:09Z",
+    "stamp": "2022-04-28T08:53:09Z",
     "todos": []
   },
   "supabase-auth": {
@@ -1933,11 +1933,11 @@
     "todos": []
   },
   "sus-downloader": {
-    "stamp": "2022-04-14T21:19:15Z",
+    "stamp": "2022-04-28T08:53:16Z",
     "todos": []
   },
   "svg-3d": {
-    "stamp": "2022-04-14T21:19:22Z",
+    "stamp": "2022-04-28T08:53:22Z",
     "todos": [
       "Ponder on the options for interactivity",
       "Measure performance using Playwirght to record SVG DOM state at each point",
@@ -1980,7 +1980,7 @@
     ]
   },
   "svg-screencast": {
-    "stamp": "2022-04-15T22:06:38Z",
+    "stamp": "2022-04-28T08:53:28Z",
     "todos": []
   },
   "svg-timeseries": {
@@ -2022,7 +2022,7 @@
     "todos": []
   },
   "three-op-1": {
-    "stamp": "2022-04-14T21:21:34Z",
+    "stamp": "2022-04-28T08:53:34Z",
     "todos": []
   },
   "til": {
@@ -2054,7 +2054,7 @@
     ]
   },
   "track-maker": {
-    "stamp": "2022-02-12T20:18:40Z",
+    "stamp": "2022-04-28T08:53:51Z",
     "todos": [
       "Tweak the `arc` or `quadraticCurve` commands to achieve the arc I want",
       "Implement OpenSCAD/STL/GCode export",
@@ -2073,11 +2073,11 @@
     ]
   },
   "tsserver-esm-url": {
-    "stamp": "2022-04-16T08:32:03Z",
+    "stamp": "2022-04-28T08:54:00Z",
     "todos": []
   },
   "tsx-xaml-render-props": {
-    "stamp": "2022-04-14T21:24:14Z",
+    "stamp": "2022-04-28T08:54:07Z",
     "todos": [
       "Fix Firefox by not using `::after` on an `input` in `Toggle` but on the label instead"
     ]
@@ -2087,7 +2087,7 @@
     "todos": []
   },
   "typescript-in-browser": {
-    "stamp": "2022-04-14T21:24:44Z",
+    "stamp": "2022-04-28T08:54:13Z",
     "todos": [
       "Make TSX work in the Monaco editor",
       "Add TS compiler options controls: types, target etc."
@@ -2106,7 +2106,7 @@
     "todos": []
   },
   "vercel-geo-ip": {
-    "stamp": "2022-01-27T23:27:20Z",
+    "stamp": "2022-04-28T08:54:19Z",
     "todos": [
       "Track `request.socket.localAddress` as remote address is always localhost",
       "Decypher hits from the middleware to the API routes, how they show up"
@@ -2119,7 +2119,7 @@
     ]
   },
   "vscode-bare-extension": {
-    "stamp": "2022-04-15T22:14:41Z",
+    "stamp": "2022-04-28T08:54:27Z",
     "todos": [
       "Figure out why the `index.log` file is empty in CI - extension not working",
       "Transfer over the currently working logic from code-extension-screencast"
@@ -2130,7 +2130,7 @@
     "todos": []
   },
   "vscode-compound-debug-split-terminal": {
-    "stamp": "2022-04-14T21:49:52Z",
+    "stamp": "2022-04-28T08:54:33Z",
     "todos": []
   },
   "vscode-email-viewer": {
