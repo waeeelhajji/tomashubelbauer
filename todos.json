@@ -2147,7 +2147,7 @@
     ]
   },
   "vscode-esm-url": {
-    "stamp": "2022-04-14T21:50:00Z",
+    "stamp": "2022-04-28T08:54:39Z",
     "todos": [
       "Add a GitHub Actions workflow to package the VSIX and release it to GitHub Releases"
     ]
@@ -2174,7 +2174,7 @@
     "todos": []
   },
   "vscode-markdown-jira-links": {
-    "stamp": "2022-04-14T21:27:49Z",
+    "stamp": "2022-04-28T08:54:46Z",
     "todos": []
   },
   "vscode-markdown-link-suggestions": {
@@ -2207,7 +2207,7 @@
     ]
   },
   "vscode-video": {
-    "stamp": "2022-04-15T22:23:05Z",
+    "stamp": "2022-04-28T08:54:52Z",
     "todos": [
       "Try using the screencast API for a better performance (but what about quality?)",
       "Add playback controls which use `vscode.postMessage` to the editor provider",
@@ -2235,7 +2235,7 @@
     ]
   },
   "vso-shortlink": {
-    "stamp": "2022-04-14T21:29:13Z",
+    "stamp": "2022-04-28T08:54:58Z",
     "todos": [
       "Add support for issues open in the backlog page"
     ]
@@ -2262,7 +2262,7 @@
     ]
   },
   "web-certificates": {
-    "stamp": "2022-04-14T21:30:35Z",
+    "stamp": "2022-04-28T08:55:04Z",
     "todos": []
   },
   "web-design": {
@@ -2270,11 +2270,11 @@
     "todos": []
   },
   "web-gps-tracker": {
-    "stamp": "2022-04-14T21:31:02Z",
+    "stamp": "2022-04-28T08:55:11Z",
     "todos": []
   },
   "web-midi": {
-    "stamp": "2022-04-14T21:31:09Z",
+    "stamp": "2022-04-28T08:55:17Z",
     "todos": [
       "Implement an OP-1 device and another for the keyboard",
       "Figure out how to query the initial values of the faders",
@@ -2326,7 +2326,7 @@
     ]
   },
   "webgl-op-1": {
-    "stamp": "2022-04-14T21:32:19Z",
+    "stamp": "2022-04-28T08:55:23Z",
     "todos": []
   },
   "webpack-sourcemap": {
@@ -2336,7 +2336,7 @@
     ]
   },
   "webrtc-airdrop": {
-    "stamp": "2021-09-03T14:30:25Z",
+    "stamp": "2022-04-28T08:55:29Z",
     "todos": []
   },
   "webrtc-bridge": {
@@ -2352,7 +2352,7 @@
     ]
   },
   "webrtc-data-channel-demo": {
-    "stamp": "2022-04-16T13:44:41Z",
+    "stamp": "2022-04-28T08:55:34Z",
     "todos": [
       "Fix nvm: command not found in cmd/chrome-screenshot/cmd.sh and cmd/firefox-screenshot/cmd.sh",
       "Finalize Firefox headless automation for generating screenshots and console logs using Selenium WebDriver",
@@ -2363,7 +2363,7 @@
     ]
   },
   "webrtc-qr-signaling-channel": {
-    "stamp": "2022-04-14T21:34:13Z",
+    "stamp": "2022-04-28T08:55:41Z",
     "todos": [
       "Handle more states: user media handlers, peer connection handlers…",
       "Figure out why *ICE failed, add a TURN server and see about:webrtc for more details* happens",
@@ -2399,13 +2399,13 @@
     "todos": []
   },
   "windows-safari": {
-    "stamp": "2022-04-14T21:37:06Z",
+    "stamp": "2022-04-28T08:55:47Z",
     "todos": [
       "Wait for the Windows binary release I guess?"
     ]
   },
   "windows-sandbox-script": {
-    "stamp": "2022-04-14T21:38:38Z",
+    "stamp": "2022-04-28T08:55:54Z",
     "todos": [
       "Figure out how to auto-hide taskbar",
       "Figure out how to pin to the taskbar",
@@ -2414,15 +2414,15 @@
     ]
   },
   "windows-startup-path": {
-    "stamp": "2022-04-14T21:38:41Z",
+    "stamp": "2022-04-28T08:56:01Z",
     "todos": []
   },
   "wokwi-nmea-checksum": {
-    "stamp": "2022-04-14T21:38:53Z",
+    "stamp": "2022-04-28T08:56:07Z",
     "todos": []
   },
   "workers-formdata": {
-    "stamp": "2022-04-14T21:39:57Z",
+    "stamp": "2022-04-28T08:56:14Z",
     "todos": [
       "See if with Durable Objects and ESM this script could be a dependency"
     ]
