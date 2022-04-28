@@ -2348,14 +2348,10 @@
     ]
   },
   "webrtc-data-channel-demo": {
-    "stamp": "2022-04-28T08:55:34Z",
+    "stamp": "2022-04-28T17:52:58Z",
     "todos": [
-      "Fix nvm: command not found in cmd/chrome-screenshot/cmd.sh and cmd/firefox-screenshot/cmd.sh",
-      "Finalize Firefox headless automation for generating screenshots and console logs using Selenium WebDriver",
-      "Contribute a demo where peer connections are keyed by peer name and one peer can hold multiple ones or a group chat",
-      "Extend the/contribute a new example to cover media session establishment on top of the data one",
-      "Consider adding another demo where the signaling channel is a service worker connecting two tabs",
-      "Move `src` to the root and set up GitHub Pages again"
+      "Contribute a demo where peer connections are keyed by peer name",
+      "Make another demo a service worker signaling channel between two tabs"
     ]
   },
   "webrtc-qr-signaling-channel": {
