@@ -339,7 +339,7 @@
     "todos": []
   },
   "cra": {
-    "stamp": "2022-04-27T00:12:01Z",
+    "stamp": "2022-04-28T00:16:49Z",
     "todos": []
   },
   "cra-ast-localize": {
@@ -404,7 +404,7 @@
     ]
   },
   "csfd-digest": {
-    "stamp": "2022-04-27T00:16:17Z",
+    "stamp": "2022-04-28T00:18:21Z",
     "todos": [
       "Remove local storage items for movies no longer in the data",
       "Scrape all cities, not just Prague and add a switcher and geolocation integration",
