@@ -1,5 +1,9 @@
 # Issues
 
+## dot-matrix-tester
+
+- [Fix the intregration PAT token seemingly not being able to push to the workflow](https://github.com/TomasHubelbauer/dot-matrix-tester/issues/1)
+
 ## garmin-img
 
 - [Any plans to develop it further?](https://github.com/TomasHubelbauer/garmin-img/issues/1)
