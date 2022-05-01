@@ -1,5 +1,9 @@
 # Issues
 
+## arduino-qr
+
+- [Merge with https://github.com/TomasHubelbauer/dot-matrix-tester](https://github.com/TomasHubelbauer/arduino-qr/issues/1)
+
 ## dot-matrix-tester
 
 - [Fix the intregration PAT token seemingly not being able to push to the workflow](https://github.com/TomasHubelbauer/dot-matrix-tester/issues/1)
