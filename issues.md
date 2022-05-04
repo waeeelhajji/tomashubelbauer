@@ -37,6 +37,7 @@
 
 ## vscode-email-viewer
 
+- [No longer works](https://github.com/TomasHubelbauer/vscode-email-viewer/issues/3)
 - [Doesn't work with special character in filename](https://github.com/TomasHubelbauer/vscode-email-viewer/issues/2)
 - [How to use this package](https://github.com/TomasHubelbauer/vscode-email-viewer/issues/1)
 
