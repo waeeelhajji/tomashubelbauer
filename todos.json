@@ -2196,7 +2196,7 @@
     "todos": []
   },
   "vscode-markdown-todo": {
-    "stamp": "2022-04-15T22:18:32Z",
+    "stamp": "2022-06-07T09:47:07Z",
     "todos": [
       "Figure out and fix whatever `TodoCodeLens` was meant to be",
       "Ditch Travis for CI now that we have GitHub Actions",
