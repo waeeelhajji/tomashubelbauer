@@ -404,7 +404,7 @@
     ]
   },
   "csfd-digest": {
-    "stamp": "2022-06-17T00:14:31Z",
+    "stamp": "2022-06-18T00:15:38Z",
     "todos": [
       "Remove local storage items for movies no longer in the data",
       "Scrape all cities, not just Prague and add a switcher and geolocation integration",
